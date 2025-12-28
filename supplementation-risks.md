@@ -9,7 +9,7 @@ Acute toxicity results from a single very high dose (usually >100,000–500,000 
 - **Gastrointestinal disturbances:** nausea, vomiting, abdominal pain, diarrhea
 - **Neurological effects:** dizziness, blurred vision, headache, irritability
 - **Skin changes:** peeling skin, especially around the lips and palms
-- **Increased intracranial pressure:** mimicking a brain tumor, with symptoms such as headache, blurred vision, and in infants, bulging fontanelles
+- **Increased intracranial pressure:** mimicking a brain tumor, with symptoms such as headache, blurred vision, and in infants, bulging fontanelles (Source: NIH Office of Dietary Supplements, 2023)
 - **Muscle and joint pain**
 
 Acute hypervitaminosis A is a medical emergency and requires immediate cessation of supplement use and medical evaluation.
@@ -27,7 +27,7 @@ Chronic toxicity develops after prolonged intake of doses exceeding the tolerabl
 
 ## Risk Mitigation and Recommendations
 
-- **Consult a healthcare provider** before starting any Vitamin A supplement, especially if you are pregnant, planning to become pregnant, or have liver disease.
+- **Consult a healthcare provider** before starting any Vitamin A supplement, especially if you are pregnant, planning to become pregnant, or have liver disease. Individuals considering Vitamin A supplements above the RDA should consult a healthcare professional to assess their specific needs and avoid potential toxicity.
 - **Prefer dietary sources** over supplements whenever possible. Provitamin A carotenoids (e.g., beta‑carotene from carrots, sweet potatoes, leafy greens) are converted to retinol only as needed and do not cause toxicity.
 - **Adhere to the recommended dietary allowances (RDAs)** and avoid exceeding the tolerable upper intake level (UL) unless under medical supervision.
 - **Be aware of cumulative intake** from multivitamins, fortified foods, and separate Vitamin A supplements.
